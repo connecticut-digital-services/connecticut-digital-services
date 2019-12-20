@@ -3,8 +3,8 @@ templateKey: area
 title: Agile Procurement
 icon: conveyor-belt-alt
 description: >-
-  We're adopting the latest procurement practices that increase the odds of
-  project success while minimizing cost and risk.
+  We're focusing on quick-to-market services with huge impact (and less cost).
+  To do so, we have to break the old rules.
 order: 2
 cta: Learn more about our efforts and specific examples of our work.
 cta_link: /work/
