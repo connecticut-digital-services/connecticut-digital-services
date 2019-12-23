@@ -3,40 +3,42 @@ templateKey: area
 title: Customer Experience
 icon: comments-alt
 description: >-
-  Citizens deserve a compassionate, simple-to-use government that addresses
-  their needs. We’re delivering on this promise.
+  Citizens deserve a compassionate, simple-to-use government that fulfills their
+  needs. We’re delivering on this promise.
 order: 0
+cta: Learn More
+cta_link: 'https://mountain-laurel.netlify.com/work'
 items:
   - title: This is a test
     description: Here is some test content
   - title: Here is another test
     description: Here is some test content
 ---
-Government has been notorious for providing frustrating customer experiences. We want to start changing that. By transforming constituents’ interactions with us into accessible, useful, and even delightful digital experiences, we can restore their confidence in government and their willingness to engage. Our end goal is exceptional customer service.
+Government can be notorious for frustrating customer experiences. We're going to change that. 
 
-Here is a list of critical questions to ask ourselves as agencies working toward putting users first:  
+We'll transform our interactions with users into ones that are valuable, seamless, and sometimes even delightful. 
+
+Digital solutions will take us there. By combining user-centric content with analytics and support tools, we'll help restore our constituents' trust in government. They'll have confidence that we understand their needs and are fully committed to their success. 
+
+But you can't make a new pie with old ingredients. Here's how we'll change our approach to customer service at its core:  
 
 * Do we understand the needs and contexts of our users? 
-* What pain points, what challenges exist in everyday interactions with government?
-* What service delivery changes can we make to improve those interactions?
+* What pain points and challenges exist in their everyday interactions with government?
+* What changes can we make to improve the way we help them get services?
 * Are we creating and following uniform standards for user experience (e.g. content and style guides)?
 * Are we addressing the user’s whole experience, from start to finish?
-* Are we delivering a unified experience by bridging gaps between organizational silos seamlessly and behind the scenes?
+* Are we delivering a unified experience by bridging organizational silos - seamlessly and behind the scenes?
 * Are we helping to cultivate clear two-way communication between government and constituents?
 * Are we providing a consistent, high quality experience? How do we know?
 
 ## Key Actions & Timelines
 
-Below are specific actions and timelines we plan to  complete to make meaningful progress on improving user experience across the state:
-
-
+Below are specific actions and timelines to radically improve user experience across the state:
 
 ## **Key Actions**
 
 * Develop and deliver User Experience Standards
-* Improve CT.gov
-
-
+* Overhaul CT.gov
 
 ## **0-6 months**
 
