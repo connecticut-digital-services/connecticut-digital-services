@@ -8,7 +8,7 @@ hero:
         DMV had a problem. They needed a complete REAL ID solution which
         included a fully functioning document wizard (in only 30 days!)
       image: /img/license.png
-      title: The DMV gets "Real"
+      title: DMV gets "Real"
   announcements_title: >-
     We're Changing Government through Powerful Digital Solutions That Put the
     User First.
