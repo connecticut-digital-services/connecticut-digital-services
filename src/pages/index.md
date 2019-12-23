@@ -14,7 +14,7 @@ hero:
     User First.
   bg: /img/fall.jpg
   button_text: Subscribe
-  cta_text: Join the Transformation
+  cta_text: Join the Transformation Now
   text: Help Us Build a Visionary Connecticut That Citizens Will Love
 focus:
   cta_text: Learn more about our current projects and initiatives
