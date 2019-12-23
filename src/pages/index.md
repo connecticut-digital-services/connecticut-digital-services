@@ -3,11 +3,15 @@ templateKey: index
 hero:
   announcements:
     - cta_link: /work
-      cta_text: See more change
-      description: the DMV needed a complete REAL ID solution (in only 30 days!)
+      cta_text: Check out the results
+      description: >-
+        the DMV had a problem. They needed a complete REAL ID solution that
+        included a fully functioning document wizard (in only 30 days!)
       image: /img/license.png
       title: The DMV gets Real
-  announcements_title: We're government. And we're changing the game.
+  announcements_title: >-
+    We're Changing Government Through Powerful Digital Solutions That Put the
+    User first.
   bg: /img/fall.jpg
   button_text: Subscribe
   cta_text: 'See the Change in Action '
