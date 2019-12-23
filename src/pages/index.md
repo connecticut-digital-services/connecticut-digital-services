@@ -4,7 +4,7 @@ hero:
   announcements:
     - cta_link: /work
       cta_text: See more change
-      description: the DMV needed a complete REAL ID solution (in 30 days)
+      description: the DMV needed a complete REAL ID solution (in only 30 days!)
       image: /img/license.png
       title: The DMV gets Real
   announcements_title: We're government. And we're changing the game.
