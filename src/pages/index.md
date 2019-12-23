@@ -5,16 +5,16 @@ hero:
     - cta_link: /work
       cta_text: Check out the results
       description: >-
-        the DMV had a problem. They needed a complete REAL ID solution that
+        DMV had a problem. They needed a complete REAL ID solution which
         included a fully functioning document wizard (in only 30 days!)
       image: /img/license.png
-      title: The DMV gets Real
+      title: The DMV gets "Real"
   announcements_title: >-
-    We're Changing Government Through Powerful Digital Solutions That Put the
-    User first.
+    We're Changing Government through Powerful Digital Solutions That Put the
+    User First.
   bg: /img/fall.jpg
   button_text: Subscribe
-  cta_text: See How We're Transforming Connecticut
+  cta_text: Join the Transformation
   text: Help Us Build a Visionary Connecticut That Citizens Will Love
 focus:
   cta_text: Learn more about our current projects and initiatives
