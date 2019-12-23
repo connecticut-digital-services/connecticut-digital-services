@@ -7,11 +7,11 @@ hero:
       description: the DMV needed a complete REAL ID solution (in 30 days)
       image: /img/license.png
       title: The DMV gets Real
-  announcements_title: See how we're changing Connecticut
+  announcements_title: We're government. And we're changing the game.
   bg: /img/fall.jpg
   button_text: Subscribe
-  cta_text: Join the Connecticut Digital Service team
-  text: Help Us Build a Visionary Connecticut That citizens will love
+  cta_text: 'See the Change in Action '
+  text: Help Us Build a Visionary Connecticut That Citizens Will Love
 focus:
   cta_text: Learn more about our current projects and initiatives
   cta_url: /work
