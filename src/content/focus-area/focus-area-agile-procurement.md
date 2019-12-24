@@ -3,8 +3,8 @@ templateKey: area
 title: Agile Procurement
 icon: conveyor-belt-alt
 description: >-
-  We're fast-tracking solutions that deliver massive benefits with less cost. To
-  do this, we have to shatter some old rules.
+  We're fast-tracking solutions that deliver immediate benefits with less cost.
+  To do this, we have to shatter some old rules.
 order: 2
 cta: Learn more about our efforts and specific examples of our work.
 cta_link: /work/
