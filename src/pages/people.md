@@ -30,17 +30,17 @@ openings:
     forward to hearing from you!
   roles:
     - link: >-
-        https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190821&R2=0415VR&R3=001
+        https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=191211&R2=7605EU&R3=001
       location: 'Hartford, CT'
-      position: Digital User Experience Design Manager
+      position: Integration Specialist
     - link: >-
         https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190820&R2=0415VR&R3=001
       location: 'Hartford, CT'
       position: Digital Product Manager
     - link: >-
-        https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190822&R2=0415VR&R3=001
+        https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=191210&R2=7604EU&R3=001
       location: 'Hartford, CT'
-      position: Software Engineering Manager
+      position: Systems Administrator
   title: Open Roles
 ---
 
