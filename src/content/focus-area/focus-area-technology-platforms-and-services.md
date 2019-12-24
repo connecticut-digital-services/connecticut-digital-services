@@ -3,9 +3,9 @@ templateKey: area
 title: Technology Platforms and Services
 icon: phone-laptop
 description: >-
-  To improve the user experience, you might need to radically change what's
-  under the hood. Old technology can gobble up resources and stunt growth. That
-  why we're turbo-charging the engine.
+  To improve the user experience, you need to look under the hood. Old
+  technology can gobble up resources and stunt growth. That why we're
+  turbo-charging the engine.
 order: 3
 cta: Learn More
 cta_link: 'https://connecticut-digital-services.github.io/work'
