@@ -2,18 +2,26 @@
 templateKey: people
 team:
   body: >-
-    Our team is at the front end of a digital transformation journey that seeks
-    to make it simple and easy to interact with the government. We are curious,
-    supportive and driven in our efforts to solve complex problems that yield
-    smart, user-centered digital services.  
+    Our team is at the forefront of a digital transformation journey that's
+    making government more accessible to its citizens.  
 
 
-    We are looking to grow our talented and scrappy team. If you are interested
-    in joining, please review the open roles below.
+    Gone are the old fix-a-leak mindsets that are punishing for the user and
+    inefficient for the provider. The new approach puts the customer first and
+    is hyper-focused on results. 
+
+
+    We're pushing user-centered design and cutting edge technology to craft new
+    solutions that are both highly valuable and future-proof.
+
+
+    Want to help us advance the mission? Take a look at the open roles below and
+    let us know how you can power-up our work.
   intro: >-
-    We are a lean, high-performing team dedicated to improving the digital
-    experience for the citizens of Connecticut. We bring to bear a diverse set
-    of skills and experience to achieve this mission.    
+    We're a lean but passionate team of digital experts. And we're driven to
+    improve the government experience for all citizens of Connecticut. To do
+    this, we combine a diverse set of skills and experience that will provide
+    the highest amount of impact for the user.
   title: The Team
 openings:
   intro: >-
