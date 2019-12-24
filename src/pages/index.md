@@ -14,7 +14,7 @@ hero:
     User in Control
   bg: /img/fall.jpg
   button_text: Subscribe
-  cta_text: Join the Digital Makeover of Connecticut Now
+  cta_text: Join the Digital Transformation of Connecticut Now
   text: Help Us Build a Visionary Connecticut That Citizens Will Love
 focus:
   cta_text: Learn more about our current projects and initiatives
