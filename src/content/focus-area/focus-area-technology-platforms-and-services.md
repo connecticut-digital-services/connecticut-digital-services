@@ -4,7 +4,7 @@ title: Technology Platforms and Services
 icon: phone-laptop
 description: >-
   To improve the user experience, you need to look under the hood. Old
-  technology can gobble up resources and stunt growth. That why we're
+  technology can gobble up resources and stunt growth. That's why we're
   turbo-charging the engine.
 order: 3
 cta: Learn More
