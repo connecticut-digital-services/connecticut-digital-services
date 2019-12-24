@@ -7,7 +7,7 @@ description: >-
   needs. We’re delivering on this promise.
 order: 0
 cta: Learn More
-cta_link: 'https://mountain-laurel.netlify.com/work'
+cta_link: 'https://connecticut-digital-services.github.io/work'
 items:
   - title: This is a test
     description: Here is some test content
@@ -68,4 +68,4 @@ incremental delivery
 
 \-Continuous improvement to previous work cycles. 
 
-[Learn more about our efforts and specific examples of our work.](https://mountain-laurel.netlify.com/work)
+[Learn more about our efforts and specific examples of our work.](https://connecticut-digital-services.github.io/work)
