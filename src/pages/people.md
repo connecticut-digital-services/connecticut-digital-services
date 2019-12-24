@@ -20,8 +20,8 @@ team:
   intro: >-
     We're a lean but passionate team of digital experts. And we're driven to
     improve the government experience for all citizens of Connecticut. To do
-    this, we combine a diverse set of skills and experience that will provide
-    the highest amount of impact for the user.
+    this, we combine a diverse set of skills and experience that provide the
+    highest amount of impact for the user.
   title: The Team
 openings:
   intro: >-
