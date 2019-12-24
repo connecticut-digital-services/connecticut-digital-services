@@ -14,13 +14,13 @@ items:
   - title: Here is another test
     description: Here is some test content
 ---
-Government can be notorious for frustrating customer experiences. We're going to change that. 
+Government can be notorious for frustrating customer experiences. We're committed to change that. 
 
-We'll transform our interactions with users into ones that are valuable, seamless, and sometimes even delightful. 
+So we're shifting the way we do business. We're prioritizing value and offering service that is painless, seamless, and sometimes even delightful. 
 
-Digital solutions will take us there. By combining user-centric content with analytics and support tools, we'll help restore our constituents' trust in government. They'll have confidence that we understand their needs and are fully committed to their success. 
+Digital modernization will help us get there. By combining user-driven solutions with powerful analytics and support tools, we'll help restore constituents' trust in government. They'll have confidence that we understand their needs and are fully committed to their success. 
 
-But you can't make a new pie with old ingredients. Here's how we'll change our approach to customer service at its core:  
+Here are the guideposts that fuel our new approach to customer experience:  
 
 * Do we understand the needs and contexts of our users? 
 * What pain points and challenges exist in their everyday interactions with government?
