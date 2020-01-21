@@ -1,14 +1,7 @@
 ---
 templateKey: index
 hero:
-  announcements:
-    - cta_link: /work
-      cta_text: Check out the results
-      description: >-
-        DMV had a problem. They needed a complete REAL ID solution that also
-        included a fully functioning document wizard (in only 30 days!)
-      image: /img/license.png
-      title: 'Success Story: DMV gets "Real"'
+  announcements: []
   announcements_title: >-
     We're Changing Government through Powerful Digital Solutions That Put the
     User in Control
