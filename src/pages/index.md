@@ -2,7 +2,7 @@
 templateKey: index
 hero:
   announcements:
-    - cta_link: 'https://connecticut-digital-services.github.io/work'
+    - cta_link: 'https://connecticut-digital-services.github.io/work-business-one-stop/'
       cta_text: See the Solution
       description: >-
         The Problem: Starting a biz in Connecticut can be confusing and
