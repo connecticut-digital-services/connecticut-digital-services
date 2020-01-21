@@ -1,7 +1,16 @@
 ---
 templateKey: index
 hero:
-  announcements: []
+  announcements:
+    - cta_link: 'https://connecticut-digital-services.github.io/work'
+      cta_text: Learn More
+      description: >-
+        the Problem: Starting a biz in Connecticut can be confusing and
+        burdensome. See how Business One Stop is transforming the experience by
+        changing all the rules.
+      image: >-
+        /img/ld5wcyvena2hpbeqil_lgqdupy4w0womhrmpfkmchey2jihk4oewjye61rdinm9w9h-o8ef0dvaydikxjfaouiemq6zfsygfxrsf-vxqoonighdjxyznkbedxwpgka9qq9jpxen1mbweb_vfda.jpeg
+      title: Business One Stop is on the Launching Pad
   announcements_title: >-
     We're Changing Government through Powerful Digital Solutions That Put the
     User in Control
