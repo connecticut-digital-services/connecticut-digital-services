@@ -34,7 +34,7 @@ openings:
       location: 'Hartford, CT'
       position: Integration Specialist
     - link: >-
-        https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190820&R2=0415VR&R3=001
+        https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=200131&R2=0415VR&R3=001
       location: 'Hartford, CT'
       position: Digital Product Manager
     - link: >-
