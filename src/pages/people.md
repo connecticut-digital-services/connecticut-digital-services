@@ -30,17 +30,9 @@ openings:
     forward to hearing from you!
   roles:
     - link: >-
-        https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=191211&R2=7605EU&R3=001
-      location: 'Hartford, CT'
-      position: Integration Specialist
-    - link: >-
         https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=200131&R2=0415VR&R3=001
       location: 'Hartford, CT'
       position: Digital Product Manager
-    - link: >-
-        https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=191210&R2=7604EU&R3=001
-      location: 'Hartford, CT'
-      position: Systems Administrator
   title: Open Roles
 ---
 
