@@ -13,6 +13,7 @@ const Hero = ({ className, text, cta, cta_url, bg, announcements_title, announce
       className={className}
       fluid={bg.childImageSharp.fluid}
       backgroundColor={`#040e18`}
+      loading="eager"
     >
       <div className="ct-max-w-5xl ct-container ct-mx-auto ct-py-4 md:ct-py-20">
         <div className={`ct-bg-black-alpha ct-p-8 ct--mx-8`}>
@@ -27,6 +28,7 @@ const Hero = ({ className, text, cta, cta_url, bg, announcements_title, announce
                       <div class="ct-w-1/2 md:ct-w-1/4 ct-mr-6 ct-mb-6 md:ct-mb-0">
                         <Img
                           fluid={announcement.image.childImageSharp.fluid}
+                          loading="eager"
                           alt=""
                         />
                       </div>
