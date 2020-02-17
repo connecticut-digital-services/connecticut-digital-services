@@ -59,8 +59,8 @@ query IndexTemplate {
         button_text
         bg {
           childImageSharp {
-            fixed(width: 2000) {
-              ...GatsbyImageSharpFixed
+            fluid(maxWidth: 2000) {
+            ...GatsbyImageSharpFluid
             }
           }
         }
@@ -72,8 +72,8 @@ query IndexTemplate {
           cta_link
           image {
             childImageSharp {
-              fixed(width: 300) {
-                ...GatsbyImageSharpFixed
+              fluid(maxWidth: 2000) {
+              ...GatsbyImageSharpFluid
               }
             }
           }
