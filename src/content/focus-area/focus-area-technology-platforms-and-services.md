@@ -3,13 +3,20 @@ templateKey: area
 title: Technology Platforms and Services
 icon: phone-laptop
 description: >-
-  To improve the user experience, you might need to radically change what’s
-  under the hood. We’re turbo-charging the engine.
+  To improve the user experience, you need to look under the hood. Old
+  technology can gobble up resources and stunt growth. That's why we're
+  turbo-charging the engine.
 order: 3
+cta: Learn More
+cta_link: 'https://connecticut-digital-services.github.io/work'
 ---
-No government agency can escape the Information Technology (IT) systems that were put into place years — maybe even generations — ago that no longer meet our needs. We must invest in paying down our “IT debt” to build new technology around the edges of the old and phase out systems that have outlived their usefulness. With the right teams in place, we can empower them to effectively make change in their agencies by offering tools, standards, and platforms to collaborate, iterate, and improve.
+Many governments are saddled with Information Technology (IT) systems that were put into place years — maybe even generations — ago. Sadly, these systems no longer meet our needs. 
 
-Below are considerations we have in mind as we adapt IT systems and/or products to work more efficiently in service to the public:  
+We must invest in paying down our “IT debt” to build new technology around the edges of the old. And we need to phase out systems that have outlived their usefulness. 
+
+With the right teams in place, we can empower agencies to ignite change. We'll enlist the right kind of tools, standards, and platforms to promote collaboration and iteration and ultimately drive progress. 
+
+Here's how we'd like to adapt our approach to IT systems/products to better serve the public:  
 
 * Use each project as a learning experience and document lessons learned
 * Share these lessons with others (internally and externally)
@@ -46,4 +53,4 @@ Below are specific actions and timelines we will complete to ensure technology p
 
 \-Establish new service support models, revise SLAs
 
-[Learn more about our efforts and specific examples of our work.](https://mountain-laurel.netlify.com/work)
+[Learn more about our efforts and specific examples of our work.](https://connecticut-digital-services.github.io/work)

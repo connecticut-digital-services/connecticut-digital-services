@@ -11,3 +11,4 @@ We want to change the way government works by designing with people of Connectic
 We want to provide meaningful interactions, and we want to get there by working in the open, listening before doing, being iterative and flexible. Ultimately, we want to flip the model of government on its head.
 
 If you want to learn more about what we're working on, or to work with us, send us an email helloctdigital@ct.gov.
+

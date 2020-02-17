@@ -3,14 +3,16 @@ templateKey: area
 title: Talent Modernization
 icon: users
 description: >-
-  Transformation doesn't happen without the right skills and talent. We’re
-  working to revamp the way we attract, retain, and empower our workforce.(Pssst
-  - wanna join?)
+  A ship without oars is just a canoe. We're rewriting the book on the critical
+  skills needed to power government with a digital-minded workforce. (Pssst -
+  wanna join?)
 order: 1
+cta: Learn More
+cta_link: 'https://connecticut-digital-services.github.io/people'
 ---
-A key to digital transformation is cultivating a digitally mature workforce. This requires building capacity and equipping our existing workforce with the tools and resources they need to navigate challenges and deliver user-centered services. This also means bringing in new talent  from outside government.  
+A key to digital transformation is cultivating a digitally mature workforce. This requires building up capacity and equipping our existing talent with new tools and resources. This will allow them to better navigate challenges and deliver user-centered services. Along with that, we want to attract subject matter rock stars from outside government.  
 
-Here are some straightforward practices we’re embracing to grow capacity and skills on the inside and recruit top digital talent to support the state:   
+Here's how we're up-skilling workers recruiting top digital talent to the State:   
 
 * Identify skills missing from existing teams
 * Arm existing teams with the tools and resources they need to learn new skills and adopt modern standards
@@ -52,6 +54,6 @@ Below are specific actions and timelines we will complete to attract, develop, s
 
 \-Recommend new roles and skills needed to mature digital services
 
-Interested in joining our team?  [Check out our open roles. ](https://mountain-laurel.netlify.com/people/)
+Interested in joining our team?  [Check out our open roles.](https://connecticut-digital-services.github.io/people) 
 
-[Learn more about our efforts and specific examples of our work](https://mountain-laurel.netlify.com/work/).
+[Learn more about our efforts and specific examples of our work](https://connecticut-digital-services.github.io/work).
