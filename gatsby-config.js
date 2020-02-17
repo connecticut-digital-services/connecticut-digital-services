@@ -20,18 +20,6 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `gatsby-starter-tailwind`,
-        short_name: `starter`,
-        start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#4dc0b5`,
-        display: `minimal-ui`,
-        icon: `static/img/fall.jpg`
-      }
-    },
-    {
       resolve: `gatsby-plugin-purgecss`,
       options: {
         tailwind: true,
