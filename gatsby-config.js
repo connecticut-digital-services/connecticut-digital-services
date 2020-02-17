@@ -79,6 +79,12 @@ module.exports = {
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-offline`,
     `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-remark-images`,
+      options: {
+        loading: 'eager'
+      },
+    }
     `gatsby-remark-relative-images`,
     `gatsby-transformer-sharp`, 
     `gatsby-plugin-styled-components`,
