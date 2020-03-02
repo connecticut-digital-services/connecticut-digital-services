@@ -27,7 +27,7 @@ In order to get a Real ID, you need to bring several identity and residency docu
 
 To add to the problem, some people have arrived at the DMV, papers in hand, only to find out that the documents they brought in were not legally permissible. For instance - a social security document that didn’t display the complete SS number; or a passport that had expired. 
 
-## (Day = Ruined.)
+(DAY = RUINED)
 
 </br>
 
