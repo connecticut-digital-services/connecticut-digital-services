@@ -58,4 +58,3 @@ But bring a snack . . . just in case.
 \-CTDS
 
 * Do you or someone you know need a Real ID? Maybe you just want to take the document wizard for a spin? [Check it out now](https://egov.ct.gov/realid/#/) and see how Connecticut Digital Services is pushing new technology for simpler government solutions that make every resident’s life better.
-* If you have further questions or want to discuss your own agency’s digital project needs, please [contact CT Digital Services](mailto:HelloCTDigital@Ct.Gov?subject=Digital%20Services%20Question) today.
