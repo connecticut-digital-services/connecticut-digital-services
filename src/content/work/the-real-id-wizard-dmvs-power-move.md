@@ -17,11 +17,7 @@ DMV certainly knows this number. Which is why, for the last nine years, they’v
 
 The cold fact is, once October arrives, only a valid passport or a Real ID will get you through airport security.
 
-But now, with the 11th hour quickly approaching, DMV is laser-focused on making the Real ID application process as easy as possible.  
-
-
-
-
+So now, with the 11th hour quickly approaching, DMV is laser-focused on making the Real ID application process as easy as possible.  
 
 ## Draining the Document Pool
 
@@ -30,10 +26,6 @@ In order to get a Real ID, you need to bring several identity and residency docu
 To add to the problem, some people have arrived at the DMV, papers in hand, only to find out that the documents they brought in were not legally permissible. For instance - a social security document that didn’t display the complete SS number; or a passport that had expired. 
 
 ## (Day = Ruined.)
-
-
-
-
 
 ## Online Logic Gives Control Back to the User
 
@@ -44,10 +36,6 @@ This is a **game-changer**. The logic that’s built into the DMV wizard was des
 It’s a simple but powerful solution that will radically reduce the number of unprepared in-person visits, decreasing the burden on both the customer and DMV field reps. 
 
 On the plus side, this new tool will help motivate even more Connecticut residents to get a Real ID. 
-
-
-
-
 
 ## The Wizard Goes Primetime
 
