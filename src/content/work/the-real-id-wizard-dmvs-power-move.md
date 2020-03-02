@@ -19,7 +19,7 @@ The cold fact is, once October arrives, only a valid passport or a Real ID will 
 
 So now, with the 11th hour quickly approaching, DMV is laser-focused on making the Real ID application process as easy as possible.
 
-</br></br><
+</br></br>
 
 ## Draining the Document Pool
 
