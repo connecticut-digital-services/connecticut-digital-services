@@ -17,11 +17,9 @@ DMV certainly knows this number. Which is why, for the last nine years, they’v
 
 The cold fact is, once October arrives, only a valid passport or a Real ID will get you through airport security.
 
-So now, with the 11th hour quickly approaching, DMV is laser-focused on making the Real ID application process as easy as possible.  
+So now, with the 11th hour quickly approaching, DMV is laser-focused on making the Real ID application process as easy as possible.
 
-## 
-
-## 
+</br></br><
 
 ## Draining the Document Pool
 
@@ -29,11 +27,11 @@ In order to get a Real ID, you need to bring several identity and residency docu
 
 To add to the problem, some people have arrived at the DMV, papers in hand, only to find out that the documents they brought in were not legally permissible. For instance - a social security document that didn’t display the complete SS number; or a passport that had expired. 
 
+</br></br>
+
 ## (Day = Ruined.)
 
-## 
-
-## 
+</br></br>
 
 ## Online Logic Gives Control Back to the User
 
@@ -45,9 +43,7 @@ It’s a simple but powerful solution that will radically reduce the number of u
 
 On the plus side, this new tool will help motivate even more Connecticut residents to get a Real ID. 
 
-## 
-
-## 
+</br></br>
 
 ## The Wizard Goes Primetime
 
@@ -64,3 +60,4 @@ But bring a snack . . . just in case.
 \-CTDS
 
 * Do you or someone you know need a Real ID? Maybe you just want to take the document wizard for a spin? [Check it out now](https://egov.ct.gov/realid/#/) and see how Connecticut Digital Services is pushing new technology for simpler government solutions that make every resident’s life better.
+* If you have further questions or want to discuss your own agency’s digital project needs, please [contact CT Digital Services](mailto:HelloCTDigital@Ct.Gov?subject=Digital%20Services%20Question) today.
