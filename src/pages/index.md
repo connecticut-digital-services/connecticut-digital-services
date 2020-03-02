@@ -2,6 +2,14 @@
 templateKey: index
 hero:
   announcements:
+    - cta_link: >-
+        https://connecticut-digital-services.github.io/the-real-id-wizard-dmvs-power-move
+      cta_text: Check It Out Now
+      description: >-
+        The Problem: DMV needed to simplfy the process of getting a REAL ID. See
+        the powerful wizard that's getting it done.
+      image: /img/license.png
+      title: REAL ID Goes Primetime
     - cta_link: 'https://connecticut-digital-services.github.io/work-business-one-stop/'
       cta_text: Check It Out Now
       description: >-
@@ -10,13 +18,6 @@ hero:
       image: >-
         /img/ld5wcyvena2hpbeqil_lgqdupy4w0womhrmpfkmchey2jihk4oewjye61rdinm9w9h-o8ef0dvaydikxjfaouiemq6zfsygfxrsf-vxqoonighdjxyznkbedxwpgka9qq9jpxen1mbweb_vfda.jpeg
       title: Business One Stop - on the Launch Pad!
-    - cta_link: 'https://connecticut-digital-services.github.io/work-business-one-stop/'
-      cta_text: Check It Out Now
-      description: >-
-        The Problem: DMV needed to simplfy the process of getting a REAL ID. See
-        the powerful wizard that's getting it done.
-      image: /img/license.png
-      title: REAL ID Goes Primetime
   announcements_title: >-
     We're Changing Government through Powerful Digital Solutions That Put the
     User in Control
