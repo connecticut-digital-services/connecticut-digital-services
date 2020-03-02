@@ -27,6 +27,8 @@ To add to the problem, some people have arrived at the DMV, papers in hand, only
 
 ## (Day = Ruined.)
 
+## 
+
 ## Online Logic Gives Control Back to the User
 
 So DMV partnered with CT Digital Services to build a highly customized [online document assistant](https://egov.ct.gov/realid/#/) (known among staff as “the Wizard”) which intelligently guides users through the Real ID process. By clicking a logical set of boxes, customers can easily assemble the exact documents they need, along with the **precise** rules that will prevent their papers from getting rejected.
@@ -36,6 +38,8 @@ This is a **game-changer**. The logic that’s built into the DMV wizard was des
 It’s a simple but powerful solution that will radically reduce the number of unprepared in-person visits, decreasing the burden on both the customer and DMV field reps. 
 
 On the plus side, this new tool will help motivate even more Connecticut residents to get a Real ID. 
+
+## 
 
 ## The Wizard Goes Primetime
 
