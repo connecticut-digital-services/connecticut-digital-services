@@ -39,7 +39,7 @@ This is a **game-changer**. The logic that’s built into the DMV wizard was des
 
 It’s a simple but powerful solution that will radically reduce the number of unprepared in-person visits, decreasing the burden on both the customer and DMV field reps. 
 
-On the plus side, this new tool will help motivate even more Connecticut residents to get a Real ID. 
+On the plus side, this new tool should help motivate even more Connecticut residents to get a Real ID. 
 
 </br>
 
