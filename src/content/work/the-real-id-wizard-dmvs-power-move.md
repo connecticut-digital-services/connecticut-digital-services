@@ -21,6 +21,8 @@ But now, with the 11th hour quickly approaching, DMV is laser-focused on making 
 
 
 
+
+
 ## Draining the Document Pool
 
 In order to get a Real ID, you need to bring several identity and residency documents to a DMV office. And that can sometimes involve laborious web searches or phone calls to a DMV service rep to understand the exact support documents needed.  
@@ -28,6 +30,8 @@ In order to get a Real ID, you need to bring several identity and residency docu
 To add to the problem, some people have arrived at the DMV, papers in hand, only to find out that the documents they brought in were not legally permissible. For instance - a social security document that didn’t display the complete SS number; or a passport that had expired. 
 
 ## (Day = Ruined.)
+
+
 
 
 
@@ -40,6 +44,8 @@ This is a **game-changer**. The logic that’s built into the DMV wizard was des
 It’s a simple but powerful solution that will radically reduce the number of unprepared in-person visits, decreasing the burden on both the customer and DMV field reps. 
 
 On the plus side, this new tool will help motivate even more Connecticut residents to get a Real ID. 
+
+
 
 
 
